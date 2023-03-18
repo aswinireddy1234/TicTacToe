@@ -17,7 +17,7 @@ public class TicTacToe {
         if (choice == 'X') {
             player = 'X';
             computer = 'O';
-        } else if (choice == 'Y') {
+        } else if (choice == 'O') {
             player = 'O';
             computer = 'X';
         }
